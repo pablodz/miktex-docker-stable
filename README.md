@@ -1,4 +1,4 @@
-# miktex-docker-linux
+# miktex-docker-stable
 
 Docker Image to run tex files anywhere with miktex based on Ubuntu 20.04 and working on Linux/Windows/MacOS
 

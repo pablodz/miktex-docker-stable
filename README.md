@@ -4,11 +4,11 @@ Docker Image to run tex files anywhere with miktex based on Ubuntu 20.04 and wor
 
 ## Install
 
-
+Pull
 ```bash
 docker pull pablogod/miktex-safe
 ```
-
+or build from source
 ```bash
 docker build --tag pablogod/miktex-safe .
 ```
